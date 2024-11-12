@@ -12,3 +12,4 @@ Hello git!
 4回目
 4回目
 git status1
+git status2
